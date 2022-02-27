@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Sir John Gaire Lord Mayor· Alderman Langham Alderman Adams Alderman Bunce Sheriff Cullam. With others imprisoned by the authorities of the Parliament and the Army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85872</idno>
+            <idno type="STC">Wing G403</idno>
+            <idno type="STC">Thomason E409_15</idno>
+            <idno type="STC">ESTC R202271</idno>
+            <idno type="EEBO-CITATION">99862617</idno>
+            <idno type="PROQUEST">99862617</idno>
+            <idno type="VID">161194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Sir John Gaire Lord Mayor· Alderman Langham Alderman Adams Alderman Bunce Sheriff Cullam. With others imprisoned by the authorities of the Parliament and the Army.</title>
+                  <author>Gayer, John, Sir, d. 1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The words "Alderman Langham Alderman Adams" and "Alderman Bunce Sheriff Cullam." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gayer, John, --  Sir, d. 1649 --  Imprisonment --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161194:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF
+<list>
+                  <item>Sir <hi>John Gaire</hi> Lord Mayor.</item>
+                  <item>Alderman Langham</item>
+                  <item>Alderman Adams</item>
+                  <item>Alderman Bunce</item>
+                  <item>Sheriff Cullam.</item>
+               </list>
+            </p>
+            <p>With others Impriſoned by the Au<g ref="char:EOLhyphen"/>thorities of the PARLIAMENT AND ARMY.</p>
+            <q xml:lang="lat">Veritas Tactu.</q>
+            <figure>
+               <figDesc>blazon of the City of London, used as a printer's device</figDesc>
+            </figure>
+            <p>
+               <add>7<hi rend="sup">ber</hi> 30</add> Printed in the Year. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161194:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:161194:2"/>
+            <head>A DECLARATION of the <hi>LORD MAYOR, &amp;c.</hi>
+            </head>
+            <p>WEre it as lawfull to utter truth, as unlawfull to ſuffer for truth; to compare the neereſt of our thoughts with the moſt notorious of our actions, and preſent them as in a Mirrour to the publike eye, we might then Declare; That as we have engaged our ſelves in one ſacred tye of <hi>Covenant,</hi> ſo therein we have in all fidelity perſeve<g ref="char:EOLhyphen"/>red, declining neither <hi>Law, Religion, King, Parlia<g ref="char:EOLhyphen"/>ment,</hi> nor Liberty, neceſſary in profeſſing Chriſtians properly naturall to true ſubjects.</p>
+            <p>The <hi>Covenant</hi> binds all (without exception) within the pale thereof, to an unite defence, and mu<g ref="char:EOLhyphen"/>tuall co-aſſiſtance of each other; but as in the Di<g ref="char:EOLhyphen"/>vine
+<pb n="4" facs="tcp:161194:3"/>Law, the breach of one Commandment pleads the Offendor guilty of all; ſo we preſume in this humane Law (the <hi>Covenant</hi>) the forfeiture of one branch brings ſelf-guiltineſs on all the reſt. <hi>We pray for mercy on this National Sin.</hi>
+            </p>
+            <p>And ſeeing (with too tranſparent eyes) both Na<g ref="char:EOLhyphen"/>ture and Religion turn'd <hi>Antipodes,</hi> acting them<g ref="char:EOLhyphen"/>ſelvs into a ſelf-Antipathy (as if Man above all ſublu<g ref="char:EOLhyphen"/>nary Creatures was an only compound of contrarities; ſeeing the foundation (on which next under heaven our hopes depend) of our Laws, our Religion our proper Rights and Priviledges (we ſay not Oaths and Pro<g ref="char:EOLhyphen"/>teſtations) blown up by the very roots, by ſuch a ſtrong tempeſtuous violence, which bears down all things before it, making the loftieſt Cedar level with the loweſt ſhrubs, untill it hath vented it ſelfe into an univerſal deſtruction; that the fearfully o<g ref="char:EOLhyphen"/>ver awed and beguiled Multitude, may in the view of our preſent condition be ſenſible of their own ruine; thus unanimouſly we unboſome our ſelves unto the world; ſhewing,</p>
+            <p>That in all our enterpriſes, ſince theſe unnaturall and domeſtick Diviſions; we have endeavoured to keep a good Conſcience towards God and all men; and how unſavory the fruit of theſe laſt ſix years have reliſht with us, none, better then our own ſouls, can atteſt; what forwardneſs for the publick good; what backwardnes in the enbrewing our ſelves in un<g ref="char:EOLhyphen"/>known alarums, eſpecially of blood; what aſſiſtance both in our perſons and purſes, for the cuting off the neck of this unnatural War, and the cloſing up of all
+<pb n="5" facs="tcp:161194:3"/>diſtractions in the armes of peace and unity, (not done in cloſets nor promov'd in ſecret corners) the whole City and Kingdom can bear witneſs.</p>
+            <p>And when we had exhauſted our ſelves for the Ge<g ref="char:EOLhyphen"/>neral of the Kingdom abroad (the ſword being by divine mercy pluckt out of the hand of our enemies) hoping then we ſhould receive a ſweet and bleſſed iſſue of all our travels finding our own ſword ſtill drawn, yet no enemy to oppoſe, and too ſad probati<g ref="char:EOLhyphen"/>on of ſiniſter reaches; we could not but reflect upon our ſelves, and apply our endeavors to the ſafety of that wherewith God and the Laws had entruſted us at home. Wil any man ſuffer his eſtate and and live<g ref="char:EOLhyphen"/>lyhood to be entrencht on by another that hath no right thereto, and be ſilent? Have not we through many generations, by the gracious influence of ma<g ref="char:EOLhyphen"/>ny glorious Kings been poſſeſſors of an honorable and free CHARTER, the very ſinew of the City and Fee ſimple of our being; wherein, beſides other priviledges, that of the <hi>Militia,</hi> which we account as chief, <hi>vi et armis</hi> to be wreſted from us; and yet be accounted enemies to others, whilſt we endeavor to preſerv our own? If ſuch things paſs for Law, who can be maſter of what he hath? What can the whole Kingdom expect when thoſe out of the very bowels of the City ſeeks her ruine?</p>
+            <p>Neither did we, by a ſelf-defence, ever harbor the leaſt thoughts of of an embroyling War, as by our dayly and inceſſant actings with the Parliament and Army did appear; ſtraining our ſelves to our utmoſt pow'r &amp; the higheſt key of a pure <hi>conſcience</hi> to qualify
+<pb n="6" facs="tcp:161194:4"/>all things into a right ſence by our Commiſſioners; but all in vain; the returns of our endeavours with our hopes, being but pills guilded over with ſpeci<g ref="char:EOLhyphen"/>ous glozes and pretences; for we are not ignorant, that though the Army came with Olives in their mouthes, yet they had ſwords in their hands, and death and deſtruction in their hearts; the grea<g ref="char:EOLhyphen"/>teſt part of them threatning, at a diſtance, the Sack and Plunder of the City: and had we not cauſe then, not only to a Verbal, but a Virgal, a Martial defence? yet (bleſſed be the Lord) not a ſword was drawn, not a blow was given, and yet we ſuffer as Enemies, that had made a way to our own peace, through a deluge of the Armies blood. But (though a homely, yet) it is a true ſaying; <hi>He that is willing to hang his neighbours dog, must ſay he ſteals ſheep.</hi>
+            </p>
+            <p>But yet that which we value above the richeſt price of Nature our Religion is made an <hi>O<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>um,</hi> become a laughing-ſtock unto many; who like tamping Ly<g ref="char:EOLhyphen"/>ons (rather then the Lamb of Chriſt) rend and tear down the pale of his fold, from a Chriſtian Con<g ref="char:EOLhyphen"/>formity to a Platonical Community, and that un<g ref="char:EOLhyphen"/>civiliz'd Liberty, the flood-gate to a perpetual Con<g ref="char:EOLhyphen"/>fuſion, and yet they and we are brethren: Do they ſtand up for a Liberty? Why not we? No, we de<g ref="char:EOLhyphen"/>ny our own Liberty, that we may be the the Lords Freemen. We ſay Religion character'd by the Laws of the Land, and the finger of Gods Spirit on our Souls, this indeed was a grand motive to our de<g ref="char:EOLhyphen"/>fence, (the cauſe ariſing not from our Superiour but fellow-Subjects;) But blame not us, lay the blame on Chriſt, under whoſe Command (alone in
+<pb n="7" facs="tcp:161194:4"/>this) we are; and if for this we ſuffer, we ſuffer with him; and ſuffering with him, we know that we ſhal alſo reign with him.</p>
+            <p>The next Cauſe is his Majeſty; (oh we bleed with<g ref="char:EOLhyphen"/>in, when we think, how many ſouls in this Nation (excluding <hi>Scotland</hi> and <hi>Ireland</hi>) are ſhipwrackt on this rock; to whom (though never ſo tyrannicall) we ſtand bound by Nature, Equity, Religion, by Oath, Covenant, Conſcience, in all loyalty and alle<g ref="char:EOLhyphen"/>giance; and ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plead us guilty? Well, the Servant is not above his Lord, nor the Diſciple his Maſter; and when the head is ſick, it is injuſtice in the members not to condole.</p>
+            <p>So that now we call heaven and earth to witneſs, that we have not faild in any thing that may plead us innocent; we have been more then ſervants to the Parliament, more than votaries to the Army; leſſe we were not, more we could not be: we have procu<g ref="char:EOLhyphen"/>red the diſlike of our Prince for partaking with his people; we are ſleighted, for emptying our ſelves to make others full, and for others liberty we ſtand impriſoned.</p>
+            <p>Here O heavens, and judge O earth the cauſe of the diſtreſſed! and becauſe with man there is neither truth, nor mercy, may the divine arme of juſtice carry on theſe things unto a bleſſed iſſue; whilſt from the bottome of our hearts we unfeignedly do pray, That God would be pleaſed to pour Oyle and Wine into our Kingdomes wounds, to the everlaſting peace and conſolation of his People; that his Maje<g ref="char:EOLhyphen"/>ſty may with higheſt honour be enthrowned in his Kingdome, and remain as a fixed ſtar in the firma<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:161194:5"/>of the Church: that the Parliament may judg Righteous Judgement, and ſettle our Diviſions in<g ref="char:EOLhyphen"/>to a peacefull poſture: that the Army (as hitherto) ſo they may ſtill be faithfull to their friends, victo<g ref="char:EOLhyphen"/>rious over their enemies: and that the whole King<g ref="char:EOLhyphen"/>dome may enjoy that liberty which by Religion, Law, or Cuſtome, they can claim.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
